@@ -1,5 +1,5 @@
 {
-  "name": "miio_protocol_controller",
+  "name": "miio-controller",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
